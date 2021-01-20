@@ -22,4 +22,8 @@ The spatial scope of the project is the neighborhood of Pacoima located in the S
 
 *Data Sources*   
 As of right now, we have identified two data sources that we’ll be using for our analysis. First, we’ll be looking at asthma emergency department rates (per 10,000). The 2012 California Department of Public Health data set additionally contains the asthma rates by zip code for all age groups in California. In addition to the zip code, which we’ll use to identify the neighborhood of Pacoima, the dataset contains a spatial component. The second dataset that we’ll be using is the CalEnviroScreen 3.0, which contains spatial data on toxic clean up sites across the state. We’ll clean up the data in order to filter the communities that we’ll be analyzing for the research project. 
+   * https://gis.data.ca.gov/datasets/7e952fa52fbf40b5be7c614312765720_0/data?orderBy=ZIP&orderByAsc=false&page=100
+   * https://oehha.ca.gov/calenviroscreen/maps-data/download-data
+   
+
 
