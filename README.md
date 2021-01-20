@@ -25,5 +25,7 @@ As of right now, we have identified two data sources that we’ll be using for o
    * https://gis.data.ca.gov/datasets/7e952fa52fbf40b5be7c614312765720_0/data?orderBy=ZIP&orderByAsc=false&page=100
    * https://oehha.ca.gov/calenviroscreen/maps-data/download-data
    
+*Visual Methodology*   
+A description, accompanied by a visual flow chart that explains the methodology for the analysis and resulting visualizations for our project.
 
 
