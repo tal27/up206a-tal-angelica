@@ -28,4 +28,5 @@ As of right now, we have identified two data sources that we’ll be using for o
 *Visual Methodology*   
 A description, accompanied by a visual flow chart that explains the methodology for the analysis and resulting visualizations for our project.
 
-
+**INSIGHTS**  
+We hope our analysis will supply additional evidence regarding the health impact of environmental hazards on residents, specifically pollution from small airports in Southern California with special attention to Pacoima’s Whiteman Airport. We intend to collate and compile extant data and conduct spatial analysis in order to provide Pacoima Beautiful a visually impactful story of their community. Lastly, we hope that the project will be useful to community leaders in order to hold local officials accountable to environmental justice communities.
