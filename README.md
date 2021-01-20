@@ -9,5 +9,5 @@ As a result of the multifaceted and significant pollution that exists in Pacoima
 
 **Research Questions**
 To what extent do health differences exist between Pacoima and other neighborhoods in Southern California due to air pollution exposure from small airports?
-    *How does Whiteman Airport impact the health of Pacoima residents in comparison to other communities with small airports in Southern California?
-    *How does close proximity to and density of toxic cleanup sites impact the health of Pacoima residents in comparison to other Southern California communities?
+    * How does Whiteman Airport impact the health of Pacoima residents in comparison to other communities with small airports in Southern California?
+    * How does close proximity to and density of toxic cleanup sites impact the health of Pacoima residents in comparison to other Southern California communities?
