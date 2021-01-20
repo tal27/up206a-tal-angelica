@@ -7,7 +7,7 @@ Despite the fact that California’s economy ranks fifth in the world and is tho
 
 As a result of the multifaceted and significant pollution that exists in Pacoima, for our research project we will focus on examining the environmental and health impact of the Whiteman Airport and toxic clean-up sites. Since Pacoima residents are exposed to numerous sources of pollutants, it would be beyond the scope of the class and our capacity to understand how all of the pollutants intertwine. As a result, we would like to compare the health impact of Whiteman Airport on Pacoima residents to other communities in Southern California that have municipal airports. Additionally, since Pacoima has a high number of toxic cleanup sites, we would like to also assess how the close proximity to those sites impacts the health of the residents. 
 
-**Research Questions**
+**Research Questions**   
    * To what extent do health differences exist between Pacoima and other neighborhoods in Southern California due to air pollution exposure from small airports?
    * How does Whiteman Airport impact the health of Pacoima residents in comparison to other communities with small airports in Southern California?
    * How does close proximity to and density of toxic cleanup sites impact the health of Pacoima residents in comparison to other Southern California communities?
